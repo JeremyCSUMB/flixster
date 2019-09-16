@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            timestampString = "590368758.357954"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.titleLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.541689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.titleLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.546553"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.550016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.titleLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.553061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.5562609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeremyshaw/Documents/flixster/flixster/MovieCell.swift"
+                  timestampString = "590367984.559132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
