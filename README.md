@@ -1,9 +1,42 @@
+# Lab 3 - Flixster
 
-# Flix
+**Flixster** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Time spent: **2** hours spent in total
 
-## Flix Part 2
+## User Stories
+
+The following **required** user stories are complete:
+
+- The following screens use AutoLayout to adapt to various orientations and screen sizes
+   - [x] Movie feed view (+3pt)
+   - [x] Detail view (+2pt)
+
+The following **stretch** user stories are implemented:
+
+- [ ] Dynamic Height Cells (+1)
+- [ ] Collection View AutoLayout (+2)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1. How figure out constaints for large scale projects
+2. Working on manually inputting the constraints is better than auto doing it.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='flixsterPartThreeVideo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Constraints were quite difficult to get properly aligned
 
 ### User Stories
 
